@@ -66,4 +66,4 @@ while p['before'] > stop:
 
     
 comdf = collect.upload(comdf)
-comdf.head(5)
+print(comdf.head(5))
